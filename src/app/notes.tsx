@@ -1,4 +1,3 @@
-// src/app/notes.tsx
 import { useState } from "react";
 import { FlatList, Pressable, StyleSheet, Text, View } from "react-native";
 
